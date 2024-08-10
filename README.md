@@ -17,8 +17,6 @@ Queries are organized in folders per exercise
 **Exercise 5**: Update lifetime value per customer calculation
 
 
-
-
 **Context**: This project involves using SQL for in-depth data analysis to address queries from different departments, enhancing decision-making for the upcoming online service transition. Skills acquired here are transferable across industries, underscoring problem-solving abilities in data analytics.
 
 **Data Set**: The dataset includes information on Rockbuster’s film inventory, customers, and transactions, loaded into a PostgreSQL database. It's structured to reflect real-world business scenarios and relationships between different data tables.
@@ -32,7 +30,13 @@ Queries are organized in folders per exercise
 - Visualizations in Tableau Public.
 - A narrative story combining data insights with business strategies.
 
-**Visualizations**: Check out the [Tableau Public dashboard](https://public.tableau.com/app/profile/isom.winton/vizzes) for interactive insights.  
+**Visualizations**: Check out for interactive insights:  
+[Top & Bottom movies](https://public.tableau.com/app/profile/marcia.hereida/viz/q1_17206826748980/q1?publish%3Dyes)
+[Rental durations](https://public.tableau.com/app/profile/marcia.hereida/viz/q2_17206838635240/q2?publish%3Dyes)
+[Distribution by Country](https://public.tableau.com/app/profile/marcia.hereida/viz/q3_17206844057540/Dashboard3?publish=yes)
+[Geographical Distribution](https://public.tableau.com/app/profile/marcia.hereida/viz/q4_17206852059350/Q4?publish=yes)
 
-**Final Project PDF**: Find a detailed report in the [Final Project PDF]
+
+
+**Final Project PDF**: Find a detailed report in the [final report](<Rockbuster PPT-Exercise 3.10.pdf>)
 
