@@ -31,10 +31,10 @@ Queries are organized in folders per exercise
 - A narrative story combining data insights with business strategies.
 
 **Visualizations**: Check out for interactive insights:  
-[Top & Bottom movies](https://public.tableau.com/app/profile/marcia.hereida/viz/q1_17206826748980/q1?publish%3Dyes)
-[Rental durations](https://public.tableau.com/app/profile/marcia.hereida/viz/q2_17206838635240/q2?publish%3Dyes)
-[Distribution by Country](https://public.tableau.com/app/profile/marcia.hereida/viz/q3_17206844057540/Dashboard3?publish=yes)
-[Geographical Distribution](https://public.tableau.com/app/profile/marcia.hereida/viz/q4_17206852059350/Q4?publish=yes)
+[Top & Bottom movies](https://public.tableau.com/app/profile/marcia.hereida/viz/q1_17206826748980/q1?publish%3Dyes)  
+[Rental durations](https://public.tableau.com/app/profile/marcia.hereida/viz/q2_17206838635240/q2?publish%3Dyes)  
+[Distribution by Country](https://public.tableau.com/app/profile/marcia.hereida/viz/q3_17206844057540/Dashboard3?publish=yes)  
+[Geographical Distribution](https://public.tableau.com/app/profile/marcia.hereida/viz/q4_17206852059350/Q4?publish=yes)  
 
 
 
